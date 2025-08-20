@@ -1,0 +1,5 @@
+test_case,product_name,action,expected_result
+add_wireless_headphones,Wireless Headphones,add_to_cart,success
+increase_quantity,Wireless Headphones,increase,success
+decrease_quantity,Wireless Headphones,decrease,success
+remove_item,Wireless Headphones,remove,success

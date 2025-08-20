@@ -1,0 +1,19 @@
+{
+  "customers": [
+    {
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "payment_method": "cash"
+    },
+    {
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com", 
+      "payment_method": "card"
+    },
+    {
+      "name": "Test Customer",
+      "email": "test@example.com",
+      "payment_method": "cash"
+    }
+  ]
+}

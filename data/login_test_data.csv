@@ -1,0 +1,3 @@
+test_case,email,password,expected_result,description
+valid_login,admin@pos.com,admin,success,Valid admin credentials
+invalid_login,notadmin@pos.com,notadmin,failure,Invalid credentials should show error message

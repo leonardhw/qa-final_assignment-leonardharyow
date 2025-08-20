@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Test artifacts
+.pytest_cache/
+reports/screenshots/*.png
+reports/*.html
+
+# Selenium logs
+*.log

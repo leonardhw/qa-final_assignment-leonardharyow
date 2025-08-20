@@ -1,0 +1,5 @@
+test_case,product_name,category,expected_result
+search_wireless_headphones,Wireless Headphones,Electronics,success
+search_partial_wireless,Wireless,Electronics,success
+search_category_only,,Electronics,success
+search_all_categories,Wireless Headphones,All Categories,success

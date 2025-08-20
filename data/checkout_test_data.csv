@@ -1,0 +1,3 @@
+test_case,customer_name,customer_email,payment_method,notes,expected_result
+complete_checkout_card,John Doe,admin@pos.com,Card,Test payment wireless headphones,success
+checkout_cancel,John Doe,admin@pos.com,Card,Test cancel functionality,cancel

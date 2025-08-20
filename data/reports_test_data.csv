@@ -1,0 +1,3 @@
+test_case,expected_total_sales,expected_transactions,expected_average_order,expected_top_products_count,expected_product,description
+after_single_transaction,$107.99,1,$107.99,1,Wireless Headphones,After completing one Wireless Headphones checkout transaction
+navigation_test,,,,,,"Simple navigation to reports page test"
